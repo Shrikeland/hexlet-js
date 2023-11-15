@@ -1,1 +1,3 @@
-# hexlet-js
+# Hexlet JS
+
+## My first project
